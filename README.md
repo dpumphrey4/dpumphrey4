@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dpumphrey4
 - 👀 I’m interested in networking.
 - 🌱 I’m currently learning cybersecurity.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to get experience in programming with an OOP, though preferably C# and the .NET framework.
 - 📫 How to reach me at dpumphrey4@gmail.com, cell-phone: 702-469-2258.
 
 <!---
