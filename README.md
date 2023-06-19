@@ -1,6 +1,6 @@
-#Dennis Pumphrey (dpumphrey4)
-##Computer Scientist
-###Bachelors of Science in Computer Science | UNLV 2019 - 2022
+# Dennis Pumphrey (dpumphrey4)
+## Computer Scientist
+### Bachelors of Science in Computer Science | UNLV 2019 - 2022
 
 Hi, I’m Dennis Pumphrey. I graduated from UNLV with a Bachelor’s degree in Computer Science. I’m passionate about technology and always keep up with the latest news. I’m particularly interested in new AI, PowerVia and RibbonFet from Intel, the newest updates of Windows and Linux, the updates on .NET, and looking into the Rust language and all the great security benefits that will bring in the future. 
 
